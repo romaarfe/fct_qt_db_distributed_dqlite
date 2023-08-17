@@ -10,10 +10,9 @@
 - [x] Permitir que este driver, QSQLCipher, trabalhe tanto com SQLite quanto com SQLCipher
 - [x] Implementação do código associado
 - [x] Testes da funcionalidades através da apresentação de seu conteúdo
-- [x] Criação do primeiro nó (leader) por linha de comando e associação por código (linhas de comando -- precisar adaptar código)
-- [x] Criar novos nós (inicialmente 3), gerando um cluster e distribuir de fato a base de dados (linhas de comando -- precisar adaptar código)
-- [x] Simulação de quebra de ligação entre os nós ao derrubar um deles (primeiro teste com líder) (linhas de comando -- precisar adaptar código)
-- [x] Simulação de quebra de ligação entre os nós ao derrubar um deles (segundo teste com outros dois nós) (linhas de comando -- precisar adaptar código)
+- [ ] Criação do server/cluster para iniciar a distribuição
+- [ ] Criação do primeiro nó (leader) por linha de comando e associação por código
+- [ ] Criar novos nós (inicialmente 3) e distribuir de fato a base de dados
 
 ---
 #### ⚠️ NOTAS IMPORTANTES:
@@ -31,7 +30,6 @@
 - SQLite (QSQLITE)
 - SQLCipher (QSQLCIPHER)
 - DQLite
-- JSON
 
 ---
 ##### 👨‍💻 Desenvolvido na SDILAB - Research & Software Development 
