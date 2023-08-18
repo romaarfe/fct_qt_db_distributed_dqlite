@@ -13,8 +13,8 @@
 - [ ] Criação do server/cluster para iniciar a distribuição
 - [ ] Criação do primeiro nó (leader) por linha de comando e associação por código
 - [ ] Criar novos nós (inicialmente 3) e distribuir de fato a base de dados
-- [x] Teste por linha de comando (alguns comandos não funcionam)
-- [ ] Realizar novos testes por linhas de comando
+- [x] Primeiro teste por terminal (alguns comandos não funcionam)
+- [ ] Realizar novos testes por terminal
 
 ---
 #### ⚠️ NOTAS IMPORTANTES:
