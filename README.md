@@ -29,6 +29,7 @@
 - C++
 - CMake
 - QT Framework
+- QT Creator
 - SQLite (QSQLITE)
 - SQLCipher (QSQLCIPHER)
 - DQLite
