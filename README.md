@@ -14,7 +14,7 @@
 - [ ] Criação do primeiro nó (leader) por linha de comando e associação por código
 - [ ] Criar novos nós (inicialmente 3) e distribuir de fato a base de dados
 - [x] Primeiro teste por terminal (alguns comandos não funcionam)
-- [ ] Realizar novos testes por terminal
+- [x] Realizar novos testes por terminal (continuam a falhar...)
 
 ---
 #### ⚠️ NOTAS IMPORTANTES:
